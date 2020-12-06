@@ -1,1 +1,3 @@
+header('Content-type: text/css');
+
 em { color: #C7254E; }
